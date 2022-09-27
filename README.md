@@ -1,2 +1,2 @@
 # modelo_imagem
-modelo de guardar imagens
+modelo de site guardar imagens
